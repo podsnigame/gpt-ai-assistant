@@ -11,8 +11,8 @@ const id = {
   __COMMAND_ANALYZE_MATHEMATICALLY_TEXT: 'Analisis matematis',
   __COMMAND_ANALYZE_MATHEMATICALLY_PROMPT:
     'Analisis hal berikut ini dengan menggunakan perspektif matematis dan berikan rinciannya.',
-  __COMMAND_ANALYZE_NUMEROLOGICALLY_LABEL: '命理學分析',
-  __COMMAND_ANALYZE_NUMEROLOGICALLY_TEXT: '命理學分析',
+  __COMMAND_ANALYZE_NUMEROLOGICALLY_LABEL: 'Analisis Numerologi',
+  __COMMAND_ANALYZE_NUMEROLOGICALLY_TEXT: 'Analisis Numerologi',
   __COMMAND_ANALYZE_NUMEROLOGICALLY_PROMPT:
     '使用命理學的角度分析以下內容，並給予細節。',
   __COMMAND_ANALYZE_PHILOSOPHICALLY_LABEL: '哲學分析',
