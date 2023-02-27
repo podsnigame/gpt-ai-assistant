@@ -12,6 +12,4 @@ const mockUsers = {};
 mockUsers[MOCK_USER_01] = { displayName: `${PARTICIPANT_HUMAN}` };
 mockUsers[MOCK_USER_02] = { displayName: `${PARTICIPANT_HUMAN} 2` };
 
-export {
-  mockUsers,
-};
+export { mockUsers };
