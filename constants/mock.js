@@ -1,6 +1,6 @@
 import { PARTICIPANT_HUMAN } from '../services/openai.js';
 
-export const MOCK_TEXT_OK = '好的！';
+export const MOCK_TEXT_OK = 'OKK！';
 
 export const MOCK_GROUP_01 = '000001';
 export const MOCK_GROUP_02 = '000002';
