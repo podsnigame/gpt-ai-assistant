@@ -1,4 +1,4 @@
-const zh = {
+const id = {
   __COMMAND_ANALYZE_ANALYZE_LABEL: 'Analisis',
   __COMMAND_ANALYZE_ANALYZE_TEXT: 'Analisis',
   __COMMAND_ANALYZE_ANALYZE_PROMPT:
@@ -134,4 +134,4 @@ const zh = {
   __USER_DISPLAY_NAME_SOMEONE: 'Seseorang',
 };
 
-export default zh;
+export default id;
